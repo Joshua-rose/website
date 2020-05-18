@@ -1,4 +1,4 @@
 [submodule "content"]
 	path = content
-        branch = master
-	url = https://github.com/developer-portal/content.git
+        branch = docker-installation-update
+	url = https://github.com/Joshua-rose/content.git

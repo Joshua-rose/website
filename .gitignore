@@ -6,4 +6,5 @@ _site
 content
 .vagrant
 .jekyll-metadata
+**/Jekyll--Converters--Markdown
 *~
